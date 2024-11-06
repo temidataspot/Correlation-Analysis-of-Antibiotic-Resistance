@@ -3,11 +3,11 @@
 
 
 # Table of Contents
-- [Overview]
-- [Available Data]
-- [Analytical Solutions]
-- [Analysis Interpretation]
-- 
+- [Overview](https://github.com/temidataspot/Correlation-Analysis-of-Antibiotic-Resistance/blob/main/README.md#overview)
+- [Available Data](https://github.com/temidataspot/Correlation-Analysis-of-Antibiotic-Resistance/blob/main/README.md#available-data)
+- [Analytical Solutions](https://github.com/temidataspot/Correlation-Analysis-of-Antibiotic-Resistance/blob/main/README.md#analytical-solutions)
+- [Analysis Interpretation](https://github.com/temidataspot/Correlation-Analysis-of-Antibiotic-Resistance/blob/main/README.md#analysis-interpretation)
+  
 # Overview
 In this project, I conducted a thorough correlation analysis to explore antibiotic resistance patterns 
 across ten antibiotics: AMP, P, C, CIP, OT, N, CT, SXT, CN, and AML. Using R, I aimed to understand potential co-resistance relationships 
