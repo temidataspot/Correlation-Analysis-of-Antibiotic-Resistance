@@ -25,7 +25,7 @@ Contact Admin [email](mailto:globaltemi98@gmail.com) for data
 
 # Analytical Solutions
 
-- [Analytical Solutions]
+- [Analytical Solutions](https://github.com/temidataspot/Correlation-Analysis-of-Antibiotic-Resistance/blob/main/Analytical%20Solutions.md)
 
 # Analysis Interpretation
 
