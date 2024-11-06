@@ -29,5 +29,5 @@ Contact Admin [email](mailto:globaltemi98@gmail.com) for data
 
 # Analysis Interpretation
 
-- [Interpretation]
+- [Interpretation](https://github.com/temidataspot/Correlation-Analysis-of-Antibiotic-Resistance/blob/main/Interpretation.md)
 
