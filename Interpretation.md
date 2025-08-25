@@ -1,8 +1,7 @@
 # Analysis Interpretation
 
 # 1. All Positive Correlations:
-○ The fact that you see only red circles means that there are no negative
-correlations (no inverse relationships) between the antibiotics in terms of how the
+No negative correlations (no inverse relationships) between the antibiotics in terms of how the
 bacteria respond to them. Essentially, if an isolate is resistant (or sensitive) to
 one antibiotic, it tends to be resistant (or sensitive) to others as well.
 
