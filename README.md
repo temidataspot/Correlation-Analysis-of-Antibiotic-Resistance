@@ -1,12 +1,17 @@
 # Correlation Analysis of Antibiotic Resistance
-![image](https://github.com/user-attachments/assets/87a52f77-3309-4e99-85e1-f819a0d53120)
 
+The purpose of this analysis is to investigate patterns of antibiotic co-resistance among the ten antibiotics. 
+By examining correlations between resistance levels, the analysis aims to identify if resistance to one antibiotic is 
+statistically associated with resistance to others. This can reveal patterns of multidrug resistance, which occur when 
+bacteria are resistant to multiple antibiotics due to shared mechanisms or selective pressures.
 
-# Table of Contents
-- [Overview](https://github.com/temidataspot/Correlation-Analysis-of-Antibiotic-Resistance/blob/main/README.md#overview)
-- [Available Data](https://github.com/temidataspot/Correlation-Analysis-of-Antibiotic-Resistance/blob/main/README.md#available-data)
-- [Analytical Solutions](https://github.com/temidataspot/Correlation-Analysis-of-Antibiotic-Resistance/blob/main/README.md#analytical-solutions)
-- [Analysis Interpretation](https://github.com/temidataspot/Correlation-Analysis-of-Antibiotic-Resistance/blob/main/README.md#analysis-interpretation)
+**Steps:**
+- Install relevant packages and load their libraries
+- Load the uploaded excel file and assign to a dataframe
+- Subset the columns related to antibiotic resistance
+- Calculate correlation matrix. Method used in this analysis is **pearson correlation**
+- Plot correlation heatmap
+
   
 # Overview
 In this project, I conducted a thorough correlation analysis to explore antibiotic resistance patterns 
@@ -25,8 +30,8 @@ Contact Admin [email](mailto:globaltemi98@gmail.com) for data
 
 # Analytical Solutions
 
-- [Analytical Solutions](https://github.com/temidataspot/Correlation-Analysis-of-Antibiotic-Resistance/blob/main/Analytical%20Solutions.md)
-
+- [Pearson Correlation Analysis](https://github.com/temidataspot/Correlation-Analysis-of-Antibiotic-Resistance/blob/main/PearsonCorrelation.R)
+  
 # Analysis Interpretation
 
 - [Interpretation](https://github.com/temidataspot/Correlation-Analysis-of-Antibiotic-Resistance/blob/main/Interpretation.md)
