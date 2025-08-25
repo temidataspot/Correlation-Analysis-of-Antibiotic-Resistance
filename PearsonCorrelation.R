@@ -53,6 +53,4 @@ correlation_matrix_combined <- cor(antibiotic_combined, method = "pearson")
 ggcorrplot(correlation_matrix_combined, method = "circle", colors = c("purple", "white", "red"), lab = TRUE) +
   ggtitle("Correlation of Antibiotic Resistance") +
   theme(plot.title = element_text(hjust = 0.5))  # Center the title
-
-![image](https://github.com/temidataspot/Correlation-Analysis-of-Antibiotic-Resistance/blob/main/Screenshot%202024-10-18%20113043.png)
 ```
